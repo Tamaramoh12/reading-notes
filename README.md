@@ -9,4 +9,8 @@ so, to keep your self always in a growth mindset you should follow these tips:
 - persist your obstacles, don't lose your focus.
 - learn from criticisms, don't ignore it.
 
-- [x] so now I have to say thay I finshied more than of 50% of todays' tasks. 
+**follow me** 
+
+*linked in:* [Liknedin](https://www.linkedin.com/in/tamara-hussien/)
+
+*github:*  [Github](https://github.com/Tamaramoh12)
