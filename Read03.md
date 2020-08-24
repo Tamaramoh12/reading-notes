@@ -15,7 +15,7 @@ Local | Remote [cloud]]
 Version control ability | Version control ability
 can't make collaborate | Collaborate
 
-as a begining I think it is enough to know, away from technical details.
+as a beginning I think it is enough to know, away from technical details.
 
 Another time we will continue and dig in the details.
 
