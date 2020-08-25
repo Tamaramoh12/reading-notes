@@ -40,8 +40,4 @@ body { font-family: Arial, Verdana, sans-serif;} h1, h2 { color: #ee3e80;} p { c
 
 **Inline style**
 
-in the tag itself we put the style, such as: 
-<body>
-  <p style="color:gray; text-align: center;"> ----- </p>
-</body>
-
+in the tag itself we put the style, such as: <p style="color:gray; text-align: center;"> ----- </p>
