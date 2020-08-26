@@ -29,3 +29,23 @@ Operator | What it mean
  || | Logical or
 ! | logical not
 
+
+
+# Loops.
+loops check a condition, and keep executes the statement inside the condition if the condition is **true**, whenever the condition becomes **false** the loop will stop.
+
+**We have three types of loops, which is:**
+1. FOR
+
+for(var i = 0; i<10;i++){
+
+console.log("statement");
+
+}
+
+2. WHILE
+
+
+3. DO WHILE
+
+
