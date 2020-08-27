@@ -42,7 +42,23 @@ spmething that allow programmers to create a single value from one or more value
 - Logical operators. (buy= (5 > 3) && (2 < 4);)
 
 **Arithmetic Operators**
+if you want to know more details about arithmetic operators, you can check out the following link.
+[arithmetic](Arithmetic.PNG)
 
 
 
+## Functions
+**What is functions?**
+something that let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements). 
 
+**Decalring a function**
+to create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces. as well as writing the function keyword at the begining.
+
+Example:
+
+function hello(){
+  document.write("Helloworld");
+}
+
+after that you have to call the function using the follwing statement:
+hello();
